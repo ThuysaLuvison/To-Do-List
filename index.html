@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To Do List 📝</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="lista de tarefas.png" type="image/x-icon" />
+  </head>
+  <body>
+    <header class="titulo-principal">
+      <h1>Organizador de Tarefas 📝</h1>
+    </header>
+    <div class="oneaboveall">
+      <div class="container">
+        <h1>Minha Lista de Tarefas ✅</h1>
+        <p id="PMsg"></p>
+      </div>
+
+      <div class="form">
+        <input
+          type="text"
+          id="tarefainput"
+          placeholder=" Digite uma tarefa..."
+        />
+        <button onclick="adicionarTarefas()">Adicionar</button>
+        <button onclick="listarTarefas()">Listar</button>
+        <button onclick="atualizarTarefas()">Atualizar</button>
+        <button onclick="excluirTarefas()">Excluir</button>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

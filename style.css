@@ -1,0 +1,94 @@
+body {
+  font-family: "Arial", sans-serif;
+  background: linear-gradient(135deg, #b3ffec, #d8b3ff);
+  padding: 40px;
+}
+.titulo-principal {
+  text-align: center;
+  margin-bottom: 20px;
+  flex-direction: column;
+  display: flex;
+}
+
+.titulo-principal h1 {
+  font-size: 40px;
+  color: #4a004a;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin-top: 0px;
+  flex-direction: column;
+  display: flex;
+}
+
+.container {
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  text-align: center;
+  color: #6a00b3;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  width: 500px;
+  max-width: 500px;
+  height: 460px;
+  margin-top: 0px;
+}
+
+
+
+.oneaboveall {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 30px;
+  flex-wrap: wrap; /* para quebrar em telas pequenas */
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  height: px;
+  justify-content: flex-start;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  width: 400px;
+  border: 2px solid #6a00b3;
+  border-radius: 8px;
+  color: #4a004a;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #6a00b3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+button:hover {
+  background-color: rgb(173, 63, 216);
+  transform: scale(1.05);
+}
+button:active {
+  transform: scale(0.95);
+  box-shadow: none;
+}
+p{
+    color: black;
+    font-size: 18px;
+
+}
