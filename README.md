@@ -45,4 +45,4 @@ Este é um projeto feito com fins educacionais e de prática. Sinta-se à vontad
 
 **Desenvolvido com 💖 por Thuysa Monique Luvison da Rosa**
 
-[To Do List](to-do-list-inky-eta.vercel.app)
+[To Do List](https://to-do-list-inky-eta.vercel.app/)
