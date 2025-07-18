@@ -1,7 +1,10 @@
 # ✅ Organizador de Tarefas 📝
 
 Bem-vindo ao **Organizador de Tarefas**!
-Este é um projeto simples, divertido e colorido de uma **To Do List**, ou seja, um organizador de tarefas. O objetivo é permitir que o usuário adicione, visualize, atualize e exclua tarefas de forma intuitiva e prática, com um visual leve e agradável.
+
+Este é um projeto simples, divertido e colorido de uma **To Do List**, ou seja, um organizador de tarefas. 
+
+O objetivo é permitir que o usuário adicione, visualize, atualize e exclua tarefas de forma intuitiva e prática, com um visual leve e agradável.
 
 ---
 
