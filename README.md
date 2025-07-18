@@ -1,31 +1,37 @@
 # ✅ Organizador de Tarefas 📝
 
+Bem-vindo ao **Organizador de Tarefas**!
 Este é um projeto simples, divertido e colorido de uma **To Do List**, ou seja, um organizador de tarefas. O objetivo é permitir que o usuário adicione, visualize, atualize e exclua tarefas de forma intuitiva e prática, com um visual leve e agradável.
 
-## 🔧 Funcionalidades
+---
 
-- Adicionar novas tarefas 🆕  
-- Listar todas as tarefas cadastradas 📋  
-- Atualizar uma tarefa já existente ✏️  
-- Excluir uma tarefa da lista ❌  
-- Interface responsiva e estilizada com cores suaves e elementos modernos 🎨
+## ✨ Funcionalidades
 
-## 💻 Tecnologias Utilizadas
+- ✅ Adicionar novas tarefas  
+- 📋 Listar todas as tarefas cadastradas 
+- ✏️ Atualizar uma tarefa já existente  
+- ❌ Excluir uma tarefa da lista   
+- 🎨 Interface responsiva e estilizada com cores suaves e elementos modernos
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (puro)**  
+- **JavaScript (puro)**
 
-## 📂 Estrutura do Projeto
+---
 
-📁 meu-projeto-todo/
-├── index.html
-├── style.css
-└── script.js
+## 📂 Estrutura dos Arquivos
 
-- `index.html`: Estrutura principal da aplicação.
-- `style.css`: Estilização visual do layout.
-- `script.js`: Toda a lógica de interação com a lista de tarefas.
+📦 Organizador-Tarefa/
+┣ 📜 `index.html` → Estrutura da página
+┣ 📜 `style.css`  → Estilos visuais e responsividade
+┣ 📜 `script.js`  → Lógica funcional de interação com a lista de tarefas.
+┗ 📷 lista-de-tarefas.png (favicon)
+
+---
 
 ## 🧠 Aprendizados
 
@@ -37,12 +43,26 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 - Lógica de arrays e controle de fluxo
 - Organização de código em múltiplos arquivos
 
-## 📌 Observações
+---
 
-Este é um projeto feito com fins educacionais e de prática. Sinta-se à vontade para modificar, sugerir melhorias ou usar como base para seu próprio projeto.
+## 📱 Compatibilidade com celular e tablet
+
+O layout foi feito usando `flexbox` e media queries para funcionar bem em celulares e tablets.  
+Os botões se ajustam, os textos continuam legíveis, e tudo se adapta ao tamanho da tela.
 
 ---
 
-**Desenvolvido com 💖 por Thuysa Monique Luvison da Rosa**
+## 📄 Licença
 
-[To Do List](https://to-do-list-inky-eta.vercel.app/)
+Este projeto está licenciado sob a licença MIT.
+
+💼 Projeto pessoal para aprendizado de desenvolvimento web!
+ 
+---
+
+## 👩‍💻 Desenvolvedora
+
+**Feito com 💜 e muito café por Thuysa Monique Luvison da Rosa**
+
+
+📌 **[To Do List](https://to-do-list-inky-eta.vercel.app/)** 📌
