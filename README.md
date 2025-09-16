@@ -1,6 +1,6 @@
 # ✅ Organizador de Tarefas 📝
 
-Bem-vindo ao **Organizador de Tarefas**!
+Bem-vindo(a) ao **Organizador de Tarefas**!
 
 Este é um projeto simples, divertido e colorido de uma **To Do List**, ou seja, um organizador de tarefas. 
 
